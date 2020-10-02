@@ -155,5 +155,17 @@ let data = [
   description:`javascript algorithms and data structures certification`,
   image: '',
   tags:[ 'javascript', 'web']
+},
+{
+  name:'Flask Tutorial',
+  instructor: 'Tim Ruscica',
+  url:'https://www.youtube.com/watch?v=mqhxxeeTbu0&ab_channel=TechWithTim',
+  description:'A Tutorial Series for Flask. An easy to learn Python framework. If you know some Python, this will help you launch prototypes quickly. Perfect for Hackathons',
+  image: '',
+  tags:['Python', 'Flask','Web Framework', 'Backen Framework']
 }
 ];
+
+
+
+
