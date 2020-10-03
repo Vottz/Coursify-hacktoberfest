@@ -175,9 +175,3 @@ let data = [
 ];
 
 
-
-
-https://www.youtube.com/watch?v=WoZobj2Ruj0&list=LLGptTaXeA4E8MZ0n2GU-4Rg&index=14&ab_channel=WebConcepts
-
-
-
