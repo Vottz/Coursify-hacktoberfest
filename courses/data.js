@@ -163,9 +163,21 @@ let data = [
   description:'A Tutorial Series for Flask. An easy to learn Python framework. If you know some Python, this will help you launch prototypes quickly. Perfect for Hackathons',
   image: '',
   tags:['Python', 'Flask','Web Framework', 'Backen Framework']
-}
+},
+{
+  name:'Introduction for Docker for Web',
+  instructor: 'benbjurstrom',
+  url:'https://www.youtube.com/watch?v=WoZobj2Ruj0&list=LLGptTaXeA4E8MZ0n2GU-4Rg&index=14&ab_channel=WebConcepts',
+  description:'Docker is create to develop with others that use different Operating Systems, because the container is always the same on every platform. But see for yourself its great and used in most companies!',
+  image: '',
+  tags:['Docker', 'Web','Containers','DevOps']
+},
 ];
 
+
+
+
+https://www.youtube.com/watch?v=WoZobj2Ruj0&list=LLGptTaXeA4E8MZ0n2GU-4Rg&index=14&ab_channel=WebConcepts
 
 
 
